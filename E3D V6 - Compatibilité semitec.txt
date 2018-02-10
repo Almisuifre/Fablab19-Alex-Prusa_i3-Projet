@@ -1,0 +1,14 @@
+E3D nouvelle version avec compatibilité sonde semitec
+
+1X https://e3d-online.com/v6 avec la configuration suivante:
+01 Size : 1.75mm
+02 Input Type : Universal - Direct Drive
+03 Type : Full kit - 12V
+04 Extras : None
+
+1X https://e3d-online.com/100k-ohm-ntc-thermistor-semitec
+1X https://e3d-online.com/ferrules-for-joining-wires-pack-of-10
+1X https://e3d-online.com/fibreglass-sleeving
+1X https://e3d-online.com/v6-heater-block-and-fixings
+
+
